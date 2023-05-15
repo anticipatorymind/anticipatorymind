@@ -4,7 +4,7 @@ I’m Jasbir Dorai [@anticipatorymind]()
 
 ## About Me
 
-I'm a dedicated individual with a keen interest in cyber security and coding. I believe that by understanding the inner workings of technology and exploring the realm of security. I enjoy delving into complex challenges and finding innovative solutions.
+I'm a dedicated individual with a keen interest in cyber security and coding. I enjoy delving into complex challenges and finding innovative solutions.
 
 ## 📫 How to reach me ...
 
